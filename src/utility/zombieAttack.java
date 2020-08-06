@@ -45,6 +45,7 @@ public class zombieAttack {
                     }
                     if (inhabitants[i] > 0 && inhabitants[i - 1]==0 && inhabitants[i+1]==0){
                         inhabitants[i] /= 2;
+                        //
                     }
                 }
             }

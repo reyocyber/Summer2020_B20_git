@@ -4,17 +4,6 @@ public class asia {
     ///yalan dunya
 
 
-
-
-
-
-
-
-
-
-
-
-
 ///
 
 
